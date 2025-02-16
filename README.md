@@ -51,14 +51,14 @@ XII GRADE – 91.8%
 X GRADE – 96% 
 
 # SKILLS   
- Languages: Python, Java, C++,C 
- Web Development: HTML, CSS, JavaScript, React, Node.js 
- Data Analysis: Pandas, NumPy, Matplotlib, Tableau 
- Machine Learning: scikit-learn, basic algorithms 
- Tools: Git, VS Code, PyCharm, Jupyter Notebooks 
- Teamwork and adaptability 
- Strong written and verbal communication 
- Problem-solving and analytical thinking 
+- Languages: Python, Java, C++,C
+- Web Development: HTML, CSS, JavaScript, React, Node.js 
+- Data Analysis: Pandas, NumPy, Matplotlib, Tableau 
+- Machine Learning: scikit-learn, basic algorithms 
+- Tools: Git, VS Code, PyCharm, Jupyter Notebooks 
+- Teamwork and adaptability 
+- Strong written and verbal communication 
+- Problem-solving and analytical thinking 
 
 # ACTIVITIES 
 1. Byte bloom Tech Fest 2023 
