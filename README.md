@@ -8,50 +8,49 @@ analysis, and machine learning, while learning and contributing to real-world pr
 professional environment. 
 
 # INTERNSHIPS 
-Edunet Foundation, leveraging the SkillsBuild Program on Artificial Intelligence (AI) 
+- Edunet Foundation, leveraging the SkillsBuild Program on Artificial Intelligence (AI) 
 Position: Intern Duration: 13th Dec 2024 to 24th January 2025 Start date: 13th 
 December 2024  
 PROJECT: SENTIMENTAL ANALYSIS 
-AICTE- Internship on AI: Transformative Learning with TechSaksham – A joint CSR 
+- AICTE Internship on AI: Transformative Learning with TechSaksham  A joint CSR 
 initiative of Microsoft & SAP, focusing on AI Technologies Position: Intern Duration: 4 
 Weeks Start Date: 12th December, 2024  
 PROJECT: EDA SHOPPING TREND DATA ANALYSIS 
-Edunet Foundation, in collaboration with EY GDS & AICTE, focusing on Full Stack 
+- Edunet Foundation, in collaboration with EY GDS & AICTE, focusing on Full Stack 
 Web Development with MERN Position: Intern Duration: 9th December 2024 to 20th 
 January 2025 Start Date: 9th December 2024  
 PROJECT: REAL COLLABORATION TOOL WITH MERN TECHNOLOGY 
-MOTION CUT Position: Python Programming Intern Duration: 1 Month Start Date: 
+- MOTION CUT Position: Python Programming Intern Duration: 1 Month Start Date: 
 5th December, 2024  
 PROJECTS: QUIZ GAME, WORD COUNTER, EXPENSE TRACKER 
 
 # PROJECTS 
-HEALTHEASY - Health Management System 
+- HEALTHEASY:  Health Management System 
 Developed a full-stack web application to manage health records and track patient information. 
-ALRNET – Academic Living Resource Feedback Network 
+- ALRNET : Academic Living Resource Feedback Network 
 Developed a full stack web application to provide university students all in one facility. 
-JAVA GAME WORLD 
-Developed Java Project for three games in combo with GUI features with SWING framework. 
-ALUMNI SYSTEM - Developed a C Project for managing alumni database. 
+- JAVA GAME WORLD : Developed Java Project for three games in combo with GUI features with SWING framework. 
+- ALUMNI SYSTEM : Developed a C Project for managing alumni database. 
 
 # CERTIFICATES 
-UGC NET QUALIFIED 2024: 99% PERCENTILE 
-KULADHIPATI PADAK 2023: HIGHEST MARKS IN BCA (HONS.) 
-SWAII.AI LEARNATHON: FUNDAMENTALS OF GENERATIVE AI 
-IBM SKILLBUILD: COMMUNICATING WITH IMPACT 
-SKILLDUNIA: CAREER GUIDANCE WEBINAR 
-AIWOS HACKATHON: TOP 250 ideas 
+- UGC NET QUALIFIED 2024: 99% PERCENTILE 
+- KULADHIPATI PADAK 2023: HIGHEST MARKS IN BCA (HONS.) 
+- SWAII.AI LEARNATHON: FUNDAMENTALS OF GENERATIVE AI 
+- IBM SKILLBUILD: COMMUNICATING WITH IMPACT 
+- SKILLDUNIA: CAREER GUIDANCE WEBINAR 
+- AIWOS HACKATHON: TOP 250 ideas 
 
 # EDUCATION 
-DOCTOR HARISINGH GOUR VISHWAVIDALAYA, SAGAR 
-MASTER OF COMPUTER APPLICATIONS - 9.5 CGPA (II Semester) 
-BUNDELKHAND VISHWAVIDALAYA, JHANSI 
+- DOCTOR HARISINGH GOUR VISHWAVIDALAYA, SAGAR 
+MASTER OF COMPUTER APPLICATIONS - 9.42 CGPA (II Semester) 
+- BUNDELKHAND VISHWAVIDALAYA, JHANSI 
 BACHELOR OF COMPUTER APPLICATIONS (HONS.) – 84.6%  
-CENTRAL HINDU GIRLS SSS, BHU VARANASI  
+- CENTRAL HINDU GIRLS SSS, BHU VARANASI  
 XII GRADE – 91.8% 
-CENTRAL HINDU GIRLS SSS, BHU VARANASI 
+- CENTRAL HINDU GIRLS SSS, BHU VARANASI 
 X GRADE – 96% 
 
-#SKILLS   
+# SKILLS   
  Languages: Python, Java, C++,C 
  Web Development: HTML, CSS, JavaScript, React, Node.js 
  Data Analysis: Pandas, NumPy, Matplotlib, Tableau 
