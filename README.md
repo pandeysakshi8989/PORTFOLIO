@@ -8,18 +8,12 @@ analysis, and machine learning, while learning and contributing to real-world pr
 professional environment. 
 
 # INTERNSHIPS 
-1.Institute : Edunet Foundation, leveraging the IBM  SkillsBuild Program on Artificial Intelligence (AI) 
-Position: Intern 
-Duration: 6 weeks  
-2. Institute: AICTE- Internship on AI: Transformative Learning with Tech Saksham – A joint CSR initiative of Microsoft & SAP, focusing on AI Technologies 
-Position: Intern 
-Duration: 4 Weeks 
+1. Institute : Edunet Foundation, leveraging the IBM  SkillsBuild Program on Artificial Intelligence (AI)  ,Position: Intern ,Duration: 6 weeks  
+2. Institute: AICTE- Internship on AI: Transformative Learning with Tech Saksham – A joint CSR initiative of Microsoft & SAP, focusing on AI Technologies  ,Position: Intern ,Duration: 4 Weeks 
 3. Institute: MOTION CUT  under Ministry of Micro, Small and Medium Enterprises 
 Position: Python Programming Intern 
 Duration: 1 Month
-4. Institute: Edunet Foundation, in collaboration with EY GDS & AICTE, focusing on Full Stack Web Development with MERN 
-Position: Intern 
-Duration: 4 weeks
+4. Institute: Edunet Foundation, in collaboration with EY GDS & AICTE, focusing on Full Stack Web Development with MERN ,Position: Intern ,Duration: 4 weeks
 Project details
 # PROJECTS 
 1. SENTIMENTAL ANALYSIS  : Used Natural Language Processing and Data Analysis 
