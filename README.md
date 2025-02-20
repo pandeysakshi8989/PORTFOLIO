@@ -1,44 +1,48 @@
 # SAKSHI PANDEY 
 Sagar, MCA | 8115610327 | sakshipandey0902@gmail.com| 
 https://www.linkedin.com/in/sakshi-pandey-235629302 |  
-https://github.com/pandeysakshi8989 
+https://pandeysakshi8989.github.io/portfolio/
 
 Seeking an opportunity where I can apply my technical skills in web development, data 
 analysis, and machine learning, while learning and contributing to real-world projects in a 
 professional environment. 
 
 # INTERNSHIPS 
-- Edunet Foundation, leveraging the SkillsBuild Program on Artificial Intelligence (AI) 
-Position: Intern Duration: 13th Dec 2024 to 24th January 2025 Start date: 13th 
-December 2024  
-PROJECT: SENTIMENTAL ANALYSIS 
-- AICTE Internship on AI: Transformative Learning with TechSaksham  A joint CSR 
-initiative of Microsoft & SAP, focusing on AI Technologies Position: Intern Duration: 4 
-Weeks Start Date: 12th December, 2024  
-PROJECT: EDA SHOPPING TREND DATA ANALYSIS 
-- Edunet Foundation, in collaboration with EY GDS & AICTE, focusing on Full Stack 
-Web Development with MERN Position: Intern Duration: 9th December 2024 to 20th 
-January 2025 Start Date: 9th December 2024  
-PROJECT: REAL COLLABORATION TOOL WITH MERN TECHNOLOGY 
-- MOTION CUT Position: Python Programming Intern Duration: 1 Month Start Date: 
-5th December, 2024  
-PROJECTS: QUIZ GAME, WORD COUNTER, EXPENSE TRACKER 
-
+- 1.Institute : Edunet Foundation, leveraging the IBM  SkillsBuild Program on Artificial Intelligence (AI) 
+Position: Intern 
+Duration: 6 weeks  
+- 2. Institute: AICTE- Internship on AI: Transformative Learning with Tech Saksham – A joint CSR initiative of Microsoft & SAP, focusing on AI Technologies 
+Position: Intern 
+Duration: 4 Weeks 
+- 3. Institute: MOTION CUT  under Ministry of Micro, Small and Medium Enterprises 
+Position: Python Programming Intern 
+Duration: 1 Month
+- 4. Institute: Edunet Foundation, in collaboration with EY GDS & AICTE, focusing on Full Stack Web Development with MERN 
+Position: Intern 
+Duration: 4 weeks
+Project details
 # PROJECTS 
-- HEALTHEASY:  Health Management System 
-Developed a full-stack web application to manage health records and track patient information. 
-- ALRNET : Academic Living Resource Feedback Network 
-Developed a full stack web application to provide university students all in one facility. 
-- JAVA GAME WORLD : Developed Java Project for three games in combo with GUI features with SWING framework. 
-- ALUMNI SYSTEM : Developed a C Project for managing alumni database. 
+- 1. SENTIMENTAL ANALYSIS  : Used Natural Language Processing and Data Analysis 
+- 2. EDA SHOPPING TREND DATA ANALYSIS : Used Data Analysis with Python
+- 3. REAL COLLABORATION TOOL WITH MERN TECHNOLOGY : Developed a full Stack web application for document editing
+- 4. HEALTHEASY -: Health Management System Developed a full-stack web application to manage health records and track patient information. 
+- 5. ALRNET : Academic Living Resource Feedback Network  Developed a full stack web application to provide university students all in one facility. 
+- 6. PORTFOLIO :  My portfolio website  Developed my portfolio website with web application
+- 7. JAVA GAME WORLD : Developed Java Project for three games in combo with GUI features with SWING framework. 
+- 8. ALUMNI SYSTEM : Developed a C Project for managing alumni database. 
 
 # CERTIFICATES 
-- UGC NET QUALIFIED 2024: 99% PERCENTILE 
-- KULADHIPATI PADAK 2023: HIGHEST MARKS IN BCA (HONS.) 
-- SWAII.AI LEARNATHON: FUNDAMENTALS OF GENERATIVE AI 
-- IBM SKILLBUILD: COMMUNICATING WITH IMPACT 
-- SKILLDUNIA: CAREER GUIDANCE WEBINAR 
-- AIWOS HACKATHON: TOP 250 ideas 
+- 1. INFOSYS SPRINGBOARD: Attended Pragati Cohort 4
+- 2. SWAIT.AI HACKATHON: Attended and Create Dataset and Train LLM Model
+- 3. IBM SKILL BUILD: Earned Digital Credential for AI Courses 
+- 4. AIWOS Hackathon -  Participated and Selected in Top 250 innovative ideas
+- 5. GUVI: - Completed ISO Certified Python  and Generative AI  Courses
+- 6. UGC NET QUALIFIED 2024: 99% Percentile in first attempt
+- 7. KULADHIPATI PADAK 2023: Highest Marks in BCA(Hons)
+- 8. Byte bloom Tech Fest  -Second Prize in Tech Mind, Code Combat, Code Unfold  
+- 9. Math’s Magician Event -Second Position at the Department 
+- 10. We Are Finding - Third Position in Competitive Programming event
+
 
 # EDUCATION 
 - DOCTOR HARISINGH GOUR VISHWAVIDALAYA, SAGAR 
@@ -52,10 +56,10 @@ X GRADE – 96%
 
 # SKILLS   
 - Languages: Python, Java, C++,C
-- Web Development: HTML, CSS, JavaScript, React, Node.js 
-- Data Analysis: Pandas, NumPy, Matplotlib, Tableau 
+- Web Development: HTML, CSS, JavaScript, React, Node.js,  MERN STACK 
+- Data Analysis: Pandas, NumPy, Matplotlib, Tableau , Power BI
 - Machine Learning: scikit-learn, basic algorithms 
-- Tools: Git, VS Code, PyCharm, Jupyter Notebooks 
+- Tools: Google Cloud and Tool, Git, VS Code, PyCharm, Jupyter Notebooks 
 - Teamwork and adaptability 
 - Strong written and verbal communication 
 - Problem-solving and analytical thinking 
